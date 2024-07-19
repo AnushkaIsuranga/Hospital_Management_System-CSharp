@@ -1,0 +1,74 @@
+C:\Users\USER\Desktop\Hospital Management\CourseWork\bin\Debug\Hospital Management.exe.config
+C:\Users\USER\Desktop\Hospital Management\CourseWork\bin\Debug\Hospital Management.exe
+C:\Users\USER\Desktop\Hospital Management\CourseWork\bin\Debug\Hospital Management.pdb
+C:\Users\USER\Desktop\Hospital Management\CourseWork\obj\Debug\Hospital Management.csproj.AssemblyReference.cache
+C:\Users\USER\Desktop\Hospital Management\CourseWork\obj\Debug\Hospital_Management.Attendants.resources
+C:\Users\USER\Desktop\Hospital Management\CourseWork\obj\Debug\Hospital_Management.Doctors.resources
+C:\Users\USER\Desktop\Hospital Management\CourseWork\obj\Debug\Hospital_Management.LoginPg.resources
+C:\Users\USER\Desktop\Hospital Management\CourseWork\obj\Debug\Hospital_Management.ManagmentPg.resources
+C:\Users\USER\Desktop\Hospital Management\CourseWork\obj\Debug\Hospital_Management.Labors.resources
+C:\Users\USER\Desktop\Hospital Management\CourseWork\obj\Debug\Hospital_Management.Medicine.resources
+C:\Users\USER\Desktop\Hospital Management\CourseWork\obj\Debug\Hospital_Management.Nurses.resources
+C:\Users\USER\Desktop\Hospital Management\CourseWork\obj\Debug\Hospital_Management.Patients.resources
+C:\Users\USER\Desktop\Hospital Management\CourseWork\obj\Debug\Hospital_Management.Properties.Resources.resources
+C:\Users\USER\Desktop\Hospital Management\CourseWork\obj\Debug\Hospital_Management.Wards.resources
+C:\Users\USER\Desktop\Hospital Management\CourseWork\obj\Debug\Hospital Management.csproj.GenerateResource.cache
+C:\Users\USER\Desktop\Hospital Management\CourseWork\obj\Debug\Hospital Management.csproj.CoreCompileInputs.cache
+C:\Users\USER\Desktop\Hospital Management\CourseWork\obj\Debug\Hospital Management.exe
+C:\Users\USER\Desktop\Hospital Management\CourseWork\obj\Debug\Hospital Management.pdb
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\Hospital Management.exe.config
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\Hospital Management.exe
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\Hospital Management.pdb
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital Management.csproj.AssemblyReference.cache
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital_Management.Attendants.resources
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital_Management.Doctors.resources
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital_Management.LoginPg.resources
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital_Management.ManagmentPg.resources
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital_Management.Labors.resources
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital_Management.Medicine.resources
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital_Management.Nurses.resources
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital_Management.Patients.resources
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital_Management.Properties.Resources.resources
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital_Management.Wards.resources
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital Management.csproj.GenerateResource.cache
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital Management.csproj.CoreCompileInputs.cache
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital Management.exe
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital Management.pdb
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\Database.mdf
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\Database_log.ldf
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\BouncyCastle.Cryptography.dll
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\Google.Protobuf.dll
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\K4os.Compression.LZ4.dll
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\K4os.Compression.LZ4.Streams.dll
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\K4os.Hash.xxHash.dll
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.dll
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\MySql.Data.dll
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\System.Buffers.dll
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\System.Configuration.ConfigurationManager.dll
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\System.Diagnostics.DiagnosticSource.dll
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\System.IO.Pipelines.dll
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\System.Memory.dll
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\System.Numerics.Vectors.dll
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.dll
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\System.Threading.Tasks.Extensions.dll
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\ZstdSharp.dll
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\BouncyCastle.Cryptography.xml
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\Google.Protobuf.pdb
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\Google.Protobuf.xml
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\K4os.Compression.LZ4.xml
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\K4os.Compression.LZ4.Streams.xml
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\K4os.Hash.xxHash.xml
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\Microsoft.Bcl.AsyncInterfaces.xml
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\MySql.Data.xml
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\System.Buffers.xml
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\System.Diagnostics.DiagnosticSource.xml
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\System.IO.Pipelines.xml
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\System.Memory.xml
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\System.Numerics.Vectors.xml
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\System.Runtime.CompilerServices.Unsafe.xml
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\System.Threading.Tasks.Extensions.xml
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital Management.csproj.CopyComplete
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\Hospital Management.exe.manifest
+D:\c# projeects\Hospital Management\CourseWork\bin\Debug\Hospital Management.application
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital Management.exe.manifest
+D:\c# projeects\Hospital Management\CourseWork\obj\Debug\Hospital Management.application
